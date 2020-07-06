@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DATA SCIENCE PORTFOLIO  on MANAN GUPTA</title>
+    <link>https://example.com/</link>
+    <description>Recent content in DATA SCIENCE PORTFOLIO  on MANAN GUPTA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Apr 2017 11:00:59 -0400</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>predict employee salaries</title>
+      <link>https://example.com/post/project2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://example.com/post/project2/</guid>
+      <description>ML-Model-Flask-Deployment This is a demo project to elaborate how Machine Learn Models are deployed on production using Flask API
+Prerequisites You must have Scikit Learn, Pandas (for Machine Leraning Model) and Flask (for API) installed.
+Project Structure This project has four major parts :
+model.py - This contains code fot our Machine Learning model to predict employee salaries absed on trainign data in &amp;lsquo;hiring.csv&amp;rsquo; file. app.py - This contains Flask APIs that receives employee details through GUI or API calls, computes the precited value based on our model and returns it.</description>
+    </item>
+    
+    <item>
+      <title>IPL First Innings Score Prediction</title>
+      <link>https://example.com/post/project1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/project1/</guid>
+      <description>Created a tool that estimates ipl score using kaggle data Built a client facing API using flask.
+  Link to GitHub Repository *project link</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/contact/</guid>
+      <description>Contact Follow me on these social media platforms.
+   Platform URL     YouTube: https://www.youtube.com/c/kenjee1?sub_confirmation=1   Website: https://www.playingnumbers.com, https://kennethjee.com/   Twitter: https://twitter.com/KenJee_DS   LinkedIn: https://www.linkedin.com/in/kenjee/   Medium: https://medium.com/@kenneth.b.jee   GitHub: https://github.com/PlayingNumbers    </description>
+    </item>
+    
+  </channel>
+</rss>
